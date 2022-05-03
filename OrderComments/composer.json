@@ -1,0 +1,13 @@
+{
+    "name": "savchenko/comments",
+    "description": "Order Comments for Magento 2",
+    "type": "magento2-module",
+    "version": "1.0.4",
+    "require": {
+        "magento/framework": ">100.0",
+        "magento/module-quote": ">100.0"
+    },
+    "autoload": {
+        "files": [ "registration.php" ]
+        }
+    }
